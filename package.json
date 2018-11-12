@@ -5,9 +5,11 @@
   "repository": "https://github.com/zegin/guide-react-boilerplate.git",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/server/index.js" 
+    "dev": "nodemon src/server/index.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.16.4"
+  },
   "devDependencies": {
     "nodemon": "^1.18.6"
   }
