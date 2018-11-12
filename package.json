@@ -1,0 +1,14 @@
+{
+  "name": "guide-react-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zegin/guide-react-boilerplate.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server/index.js" 
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
